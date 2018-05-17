@@ -23,7 +23,6 @@
 /brightray/brightray.v12.suo
 /brightray/brightray.vcxproj*
 /brightray/brightray.xcodeproj/
-/dist/
 /external_binaries/
 /out/
 /vendor/.gclient
@@ -48,5 +47,4 @@ compile_commands.json
 .envrc
 
 # npm package
-/npm/dist
 /npm/path.txt

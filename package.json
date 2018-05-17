@@ -1,5 +1,5 @@
 {
-  "name": "electron",
+  "name": "@jcarras/electron-win-offline",
   "version": "0.0.0-dev",
   "repository": "https://github.com/electron/electron",
   "description": "Build cross platform desktop apps with JavaScript, HTML, and CSS",
@@ -10,7 +10,7 @@
     "clang-format": "^1.2.3",
     "colors": "^1.1.2",
     "dotenv-safe": "^4.0.4",
-    "dugite": "^1.45.0",
+    "@jcarras/dugite-win-offline": "^1.45.0",
     "electabul": "~0.0.4",
     "electron-docs-linter": "^2.3.4",
     "electron-typescript-definitions": "^1.3.3",
