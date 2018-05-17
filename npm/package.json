@@ -1,7 +1,6 @@
 {
   "scripts": {
     "cache-clean": "rm -rf ~/.electron && rm -rf dist",
-    "postinstall": "node install.js",
     "pretest": "npm run cache-clean",
     "test": "standard"
   },
